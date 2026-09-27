@@ -1,0 +1,106 @@
+{
+  "slug": "excretionclear",
+  "box": 44,
+  "date": "2026-10-02",
+  "title": "ExcretionClear",
+  "question": "How does the excretory system work?",
+  "hook": "Every day you get rid of about 1 kg of carbon dioxide, a litre and a half of urine and a surprising amount of sweat. See all four ways out in a see-through body, watch the liver lock toxic ammonia into urea, fill a bladder until the brain says go, and swap sweat for urine on a hot day.",
+  "thumbText": "HOW WASTE LEAVES YOUR BODY",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "excretory system",
+    "urinary system",
+    "bladder",
+    "urea",
+    "urine",
+    "sweat",
+    "ORS",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Four ways out",
+      "text": "The body gets rid of waste four ways: urine from the kidneys, carbon dioxide from the lungs, sweat from the skin and stool carrying bile from the liver. Kidneys, ureters, bladder and urethra form the urinary tract; the urethra is about 4 cm in women and about 20 cm in men."
+    },
+    {
+      "title": "What you throw away every day",
+      "text": "About 1 kg of carbon dioxide, 20–35 g of urea, about 0.3 g of bilirubin from old red blood cells, and about 2.5 litres of water split between urine, skin, breath and stool."
+    },
+    {
+      "title": "Turning poison into urea",
+      "text": "Protein leaves nitrogen behind as toxic ammonia. The liver's urea cycle joins it with carbon dioxide into harmless urea, about 3 ATP a molecule. Fish just wash ammonia away through their gills; birds make a dry paste of uric acid."
+    },
+    {
+      "title": "Hold on",
+      "text": "The bladder stretches while pressure stays low. Stretch sensors report at about 150–300 mL, and the cortex holds the brainstem's go switch until you are ready. Cold, coffee and nerves make you go sooner, for different reasons."
+    },
+    {
+      "title": "Sweat or urine",
+      "text": "Heat and exercise send water out as sweat, so ADH rises and urine turns small and dark. Cold does the opposite. Urine can't carry the day's waste in less than about half a litre, so if sweat takes more than you drink, you dry out."
+    },
+    {
+      "title": "Keeping it healthy",
+      "text": "About half of women get a bladder infection at some point. Kidney stones, dehydration and ORS, bedwetting (normal at 5), an enlarged prostate in older men and dialysis when kidneys fail. For your own body, see a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Excretion",
+      "def": "Getting rid of waste your own cells made, such as carbon dioxide, urea and extra salt."
+    },
+    {
+      "term": "Urinary tract",
+      "def": "Kidneys, ureters, bladder and urethra: the system that makes, stores and releases urine."
+    },
+    {
+      "term": "Urea",
+      "def": "A harmless molecule the liver makes from toxic ammonia so nitrogen can leave in urine."
+    },
+    {
+      "term": "Urea cycle",
+      "def": "A loop of reactions in liver cells that joins ammonia and carbon dioxide into urea."
+    },
+    {
+      "term": "Bilirubin",
+      "def": "Yellow pigment from old red blood cells, sent out in bile; it colours stool and urine."
+    },
+    {
+      "term": "Detrusor",
+      "def": "The muscle wall of the bladder: relaxed while filling, squeezing to empty."
+    },
+    {
+      "term": "Sphincter",
+      "def": "A ring of muscle that closes a tube. The bladder has an automatic one and one you control."
+    },
+    {
+      "term": "ADH",
+      "def": "Antidiuretic hormone from the pituitary; it tells the kidneys to keep water."
+    },
+    {
+      "term": "ORS",
+      "def": "Oral rehydration salts: salt and sugar that carry water back into the body during diarrhoea."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "excretionclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

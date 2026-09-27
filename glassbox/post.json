@@ -1,0 +1,126 @@
+{
+  "slug": "excretionclear",
+  "box": 44,
+  "question": "How does the excretory system work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/excretionclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/excretionclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "4,500 years from covered drains in the Indus cities to urea made in a flask, a light inside the bladder and a salt-and-sugar drink that saves millions.\n\n2500 BCE: Toilets and covered drains in the Indus cities\n1200: The urine flask becomes the doctor's badge\n1614: Weighing the invisible loss\n1828: Urea made in a flask\n1854: Cholera and the Broad Street pump\n1877: A light inside the bladder\n\nThe full story, with 29 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/excretionclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/excretionclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #excretorysystem #urinarysystem #bladder #urea #urine #sweat #history",
+      "youtube": {
+        "title": "The history of understanding excretion in 45 seconds #shorts",
+        "description": "4,500 years from covered drains in the Indus cities to urea made in a flask, a light inside the bladder and a salt-and-sugar drink that saves millions.\n\n2500 BCE · Toilets and covered drains in the Indus cities (Harappan builders)\n1200 · The urine flask becomes the doctor's badge (Gilles de Corbeil and the Salerno school)\n1614 · Weighing the invisible loss (Santorio Santorio)\n1828 · Urea made in a flask (Friedrich Wöhler)\n1854 · Cholera and the Broad Street pump (John Snow)\n1877 · A light inside the bladder (Maximilian Nitze and Josef Leiter)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/excretionclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/excretionclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does the excretory system work?\n\nEvery day you get rid of about 1 kg of carbon dioxide, a litre and a half of urine and a surprising amount of sweat. See all four ways out in a see-through body, watch the liver lock toxic ammonia into urea, fill a bladder until the brain says go, and swap sweat for urine on a hot day.\n\n→ Your body gets rid of waste four ways: urine, breath, sweat and stool.\n→ The kidneys make urine, and the lungs, liver, gut and skin share the rest of the work.\n→ Every day you breathe out about 1 kg of carbon dioxide, your biggest waste by far.\n→ Urea goes out in urine, and old red blood cells leave as bile pigment in stool.\n→ Protein leaves toxic ammonia behind, and the liver locks it safely into urea.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/excretionclear (link in bio)\n\nBox No. 044 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #excretorysystem #urinarysystem #bladder #urea #urine #sweat #ors #humanbody #biology",
+    "carousel": "Swipe through: How does the excretory system work?\n\nEvery day you get rid of about 1 kg of carbon dioxide, a litre and a half of urine and a surprising amount of sweat. See all four ways out in a see-through body, watch the liver lock toxic ammonia into urea, fill a bladder until the brain says go, and swap sweat for urine on a hot day.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/excretionclear (link in bio).\n\nBox No. 044 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #excretorysystem #urinarysystem #bladder #urea #urine #sweat",
+    "youtube": {
+      "title": "How does the excretory system work? #shorts",
+      "description": "Every day you get rid of about 1 kg of carbon dioxide, a litre and a half of urine and a surprising amount of sweat. See all four ways out in a see-through body, watch the liver lock toxic ammonia into urea, fill a bladder until the brain says go, and swap sweat for urine on a hot day.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/excretionclear/\n⌘ Source code (MIT): https://github.com/bdeeps/excretionclear\n\nBox No. 044 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does the excretory system work? (interactive explainer)",
+      "description": "Every day you get rid of about 1 kg of carbon dioxide, a litre and a half of urine and a surprising amount of sweat. See all four ways out in a see-through body, watch the liver lock toxic ammonia into urea, fill a bladder until the brain says go, and swap sweat for urine on a hot day.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/excretionclear/\n⌘ Source code (MIT): https://github.com/bdeeps/excretionclear\n\nIn this video:\n• Four ways out. The body gets rid of waste four ways: urine from the kidneys, carbon dioxide from the lungs, sweat from the skin and stool carrying bile from the liver.\n• What you throw away every day. About 1 kg of carbon dioxide, 20–35 g of urea, about 0.3 g of bilirubin from old red blood cells, and about 2.5 litres of water split between urine, skin, breath and stool.\n• Turning poison into urea. Protein leaves nitrogen behind as toxic ammonia.\n• Hold on. The bladder stretches while pressure stays low.\n• Sweat or urine. Heat and exercise send water out as sweat, so ADH rises and urine turns small and dark.\n• Keeping it healthy. About half of women get a bladder infection at some point.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does the excretory system work?\n\nEvery day you get rid of about 1 kg of carbon dioxide, a litre and a half of urine and a surprising amount of sweat.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/excretionclear/",
+    "linkedin": "How does the excretory system work?\n\nEvery day you get rid of about 1 kg of carbon dioxide, a litre and a half of urine and a surprising amount of sweat. See all four ways out in a see-through body, watch the liver lock toxic ammonia into urea, fill a bladder until the brain says go, and swap sweat for urine on a hot day.\n\n1. Four ways out\n2. What you throw away every day\n3. Turning poison into urea\n4. Hold on\n5. Sweat or urine\n6. Keeping it healthy\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 044 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/excretionclear/\nCode: https://github.com/bdeeps/excretionclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T19:55:45.105Z"
+}
